@@ -1,0 +1,21 @@
+{
+  "generated_on": "2026-10-13",
+  "status": "published to Jiusheng01/MianJing",
+  "questions_count": 120,
+  "sources_entries": 35,
+  "unique_urls": 33,
+  "categories": {
+    "01-项目与技术选型": 12,
+    "02-Agent执行与框架": 14,
+    "03-多Agent与LangGraph": 12,
+    "04-Tool-MCP-Skills": 14,
+    "05-RAG与知识库": 16,
+    "06-Memory与上下文": 11,
+    "07-评测与观测": 11,
+    "08-Python后端与并发": 14,
+    "09-安全与故障恢复": 9,
+    "10-LLM模型基础": 7
+  },
+  "claimed_company_interviews_unverified": true,
+  "attribution": "Every normalized question has source IDs linked to sources/INDEX.md"
+}

@@ -2,7 +2,7 @@
 
 > 多平台 AI Agent / Python AI 应用开发面经与高频追问整理。整理截至 **2026-10-13**，根据公开网页独立归纳，并为每一道题保留来源编号与可访问 URL。
 
-**当前版本：120 道去重的学习题、33 个不同公开来源 URL、10 个知识主题。** 来源平台覆盖牛客、小红书、掘金、知乎、B站、V2EX、SegmentFault、GitHub。
+**当前版本：129 道学习题、40 个不同公开来源 URL、10 个知识主题。** 来源平台覆盖牛客、小红书、掘金、知乎、B站、V2EX、SegmentFault、GitHub。
 
 **重要：这不是“全网穷尽”，不是“已核验企业内部真题”，也不是官方题库。** 公司、岗位、面试日期通常来自发帖人自述或整理者转述；部分小红书链接通过二级报告间接索引，不能直接验证原帖内容。题目均为主题改写，未复制原帖长篇回答。
 
@@ -13,8 +13,17 @@
 - [来源索引：平台 / 日期 / 链接 / 可信度](sources/INDEX.md)
 - [面经整理方法与验证级别](METHODOLOGY.md)
 - [七天冲刺计划](SPRINT_7_DAYS.md)
+- [小红书快手与理想一二面原始追问](interviews/xiaohongshu/)（3 篇全文转录，原帖年份未标注）
 - [历史增补稿（82 题，未逐条复核）](archive/2026-07_to_10_questions_82.md)
 - [结构化题库 JSON](data/questions.json) / [来源 JSON](data/sources.json)
+
+## 新收录的面经
+
+- [快手全栈一面 · 36 条](interviews/xiaohongshu/kuaishou-fullstack-round1.md)
+- [快手全栈二面 · 13 条](interviews/xiaohongshu/kuaishou-fullstack-round2.md)
+- [理想 Agent 一面 · 14 条](interviews/xiaohongshu/ideal-agent-technical.md)
+
+原帖正文来自用户提供的文字转录，尚未逐字核验小红书网站内容；原帖没有写明年份。新增 9 个专题追问 Q121–Q129，其余问题与已有题目关联。
 
 ## 分类与题量
 

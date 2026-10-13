@@ -13,6 +13,7 @@
 - [来源索引：平台 / 日期 / 链接 / 可信度](sources/INDEX.md)
 - [面经整理方法与验证级别](METHODOLOGY.md)
 - [七天冲刺计划](SPRINT_7_DAYS.md)
+- [EchoMind 面经6 · 源码核验与五天冲刺复习清单](echomind/EchoMind面经6_源码核验与冲刺复习清单.md)（13 处核验说明、15 道优先题）
 - [小红书快手与理想一二面原始追问](interviews/xiaohongshu/)（3 篇全文转录，原帖年份未标注）
 - [历史增补稿（82 题，未逐条复核）](archive/2026-07_to_10_questions_82.md)
 - [结构化题库 JSON](data/questions.json) / [来源 JSON](data/sources.json)

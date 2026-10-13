@@ -1,9 +1,9 @@
 {
   "generated_on": "2026-10-13",
   "status": "published to Jiusheng01/MianJing",
-  "questions_count": 120,
-  "sources_entries": 35,
-  "unique_urls": 33,
+  "questions_count": 129,
+  "sources_entries": 42,
+  "unique_urls": 40,
   "categories": {
     "01-项目与技术选型": 12,
     "02-Agent执行与框架": 14,
@@ -14,8 +14,15 @@
     "07-评测与观测": 11,
     "08-Python后端与并发": 14,
     "09-安全与故障恢复": 9,
-    "10-LLM模型基础": 7
+    "10-LLM模型基础": 7,
+    "11-小红书实战追问": 9
   },
   "claimed_company_interviews_unverified": true,
-  "attribution": "Every normalized question has source IDs linked to sources/INDEX.md"
+  "attribution": "Every normalized question has source IDs linked to sources/INDEX.md",
+  "last_update": "2026-10-13",
+  "user_transcribed_sources": [
+    "S36",
+    "S37",
+    "S38"
+  ]
 }

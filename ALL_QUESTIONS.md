@@ -1,6 +1,6 @@
 # 所有题目（按主题分类）
 
-> 共 **120** 道去重后的归纳题，关联 **33** 个不同 URL（索引中 35 条来源记录，包括少量指向同一原文的不同标签）。截至 2026-10-13。
+> 共 **129** 道去重后的归纳题，关联 **40** 个不同 URL（索引中 42 条来源记录，包括少量指向同一原文的不同标签）。截至 2026-10-13。
 
 > P0 = 面试冲刺必备；P1 = 常见追问；P2 = 进阶。每道题后的来源是内容/考点线索，**不表示该题被对应公司逐字问过**。
 
@@ -153,3 +153,15 @@
 - [ ] **Q118 [P1]** 什么时候选择更小的分类模型而不是通用大模型完成意图识别？ （[S04](sources/INDEX.md#S04)、[S24](sources/INDEX.md#S24)）
 - [ ] **Q119 [P1]** 什么是 Embedding？它与生成模型有什么不同？ （[S05](sources/INDEX.md#S05)、[S21](sources/INDEX.md#S21)）
 - [ ] **Q120 [P2]** vLLM、KV Cache、Continuous Batching 与应用层并发的边界是什么？ （[S19](sources/INDEX.md#S19)、[S20](sources/INDEX.md#S20)）
+
+## [新增：小红书快手 / 理想实战追问](interviews/xiaohongshu/)
+
+- [ ] **Q121 [P0]** 三路意图识别结果冲突，怎样融合分数并验证收益？ （[S36](sources/INDEX.md#S36)、[S38](sources/INDEX.md#S38)）
+- [ ] **Q122 [P0]** Query 改写出现“退货/退款”歧义、效果变差怎么办？ （[S36](sources/INDEX.md#S36)）
+- [ ] **Q123 [P1]** 一次性 Workflow 和自主 Agent Loop 如何取舍？怎样衡量一次修复率？ （[S38](sources/INDEX.md#S38)）
+- [ ] **Q124 [P1]** Skill 与 System Prompt 的边界是什么，何时独立成 Agent？ （[S36](sources/INDEX.md#S36)、[S38](sources/INDEX.md#S38)）
+- [ ] **Q125 [P0]** 动态 Skill 注入如何实现渐进式加载？ （[S36](sources/INDEX.md#S36)、[S38](sources/INDEX.md#S38)）
+- [ ] **Q126 [P1]** Codex + Skill 与独立 Traceback 分析产品如何比较？ （[S36](sources/INDEX.md#S36)、[S38](sources/INDEX.md#S38)）
+- [ ] **Q127 [P1]** 超长终端日志的错误不在尾部，如何定位并分配上下文预算？ （[S38](sources/INDEX.md#S38)）
+- [ ] **Q128 [P1]** 前端竞态治理：AbortController、watch、请求版本号怎样使用？ （[S37](sources/INDEX.md#S37)、[S38](sources/INDEX.md#S38)）
+- [ ] **Q129 [P0]** 多 Agent 系统如何多机部署，保证会话状态一致、幂等与工具执行安全？ （[S37](sources/INDEX.md#S37)）

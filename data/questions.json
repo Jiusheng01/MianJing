@@ -1481,5 +1481,109 @@
     ],
     "origin": "改写/归纳，不保证是面试现场逐字原题",
     "status": "todo"
+  },
+  {
+    "id": "Q121",
+    "priority": "P0",
+    "category": "02-Agent执行与框架",
+    "question": "三路意图识别结果互相冲突时，如何计算最终分数、保证领域一致并验证融合收益？",
+    "sources": [
+      "S36",
+      "S38"
+    ],
+    "origin": "由用户提供的小红书面经正文归纳；非逐字记录",
+    "status": "todo"
+  },
+  {
+    "id": "Q122",
+    "priority": "P0",
+    "category": "05-RAG与知识库",
+    "question": "Query 改写导致意图歧义或效果更差时，如何保留原问题、进行多候选检索或请求澄清？",
+    "sources": [
+      "S36"
+    ],
+    "origin": "由用户提供的小红书面经正文归纳；非逐字记录",
+    "status": "todo"
+  },
+  {
+    "id": "Q123",
+    "priority": "P1",
+    "category": "02-Agent执行与框架",
+    "question": "现有 Workflow 为什么不能只换成 Agent Loop？怎样分析一次性修复成功率和自主迭代的成本与风险？",
+    "sources": [
+      "S38"
+    ],
+    "origin": "由用户提供的小红书面经正文归纳；非逐字记录",
+    "status": "todo"
+  },
+  {
+    "id": "Q124",
+    "priority": "P1",
+    "category": "04-Tool-MCP-Skills",
+    "question": "Skill 的业务契约与 System Prompt 有何区别？什么情况下应把 Skill 拆成独立 Agent？",
+    "sources": [
+      "S36",
+      "S38"
+    ],
+    "origin": "由用户提供的小红书面经正文归纳；非逐字记录",
+    "status": "todo"
+  },
+  {
+    "id": "Q125",
+    "priority": "P0",
+    "category": "04-Tool-MCP-Skills",
+    "question": "动态 Skill 注入如何实现渐进式加载，何时加载元信息、正文和可执行能力？",
+    "sources": [
+      "S36",
+      "S38"
+    ],
+    "origin": "由用户提供的小红书面经正文归纳；非逐字记录",
+    "status": "todo"
+  },
+  {
+    "id": "Q126",
+    "priority": "P1",
+    "category": "02-Agent执行与框架",
+    "question": "Codex 加 Skill 与独立 Traceback 错误分析产品的差异是什么？什么时候独立产品仍有价值？",
+    "sources": [
+      "S36",
+      "S38"
+    ],
+    "origin": "由用户提供的小红书面经正文归纳；非逐字记录",
+    "status": "todo"
+  },
+  {
+    "id": "Q127",
+    "priority": "P1",
+    "category": "06-Memory与上下文",
+    "question": "终端超长日志、错误行不在末尾时，如何定位相关 Traceback、构建上下文预算并验证截断阈值？",
+    "sources": [
+      "S38"
+    ],
+    "origin": "由用户提供的小红书面经正文归纳；非逐字记录",
+    "status": "todo"
+  },
+  {
+    "id": "Q128",
+    "priority": "P1",
+    "category": "08-Python后端与并发",
+    "question": "前端请求竞态如何治理？AbortController、watch、请求版本号与结果幂等各适合什么情况？",
+    "sources": [
+      "S37",
+      "S38"
+    ],
+    "origin": "由用户提供的小红书面经正文归纳；非逐字记录",
+    "status": "todo"
+  },
+  {
+    "id": "Q129",
+    "priority": "P0",
+    "category": "08-Python后端与并发",
+    "question": "把多 Agent 服务从单机扩展到多机，如何设计会话锁、共享状态、队列、工具执行与幂等？",
+    "sources": [
+      "S37"
+    ],
+    "origin": "由用户提供的小红书面经正文归纳；非逐字记录",
+    "status": "todo"
   }
 ]
